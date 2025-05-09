@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I'm Pezhman<br>⚡ Computer Engineer Graduate <br>⚡ Front-End Specialist <br>👯 I’m looking to collaborate on Front-End Projects<br>🌱 I’m currently learning Front-End<br>💬 Ask me about Create site<br>⚡ Here, I share the projects and code I'm working on.<br>      I'd love to hear your thoughts!<br>      
+🔭 Hi, I'm Pezhman<br>⚡ Computer Engineer Graduate <br>⚡ Front-End Specialist <br>  I’m looking to collaborate on Front-End Projects<br>🌱 I’m currently learning Front-End<br>💬 Ask me about Create site<br>⚡ Here, I share the projects and code I'm working on.<br>      I'd love to hear your thoughts!<br>      
 
 
 ## 🌐 Socials:
